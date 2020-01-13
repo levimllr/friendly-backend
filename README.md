@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Resources 📚
+
+- [Flatiron's JWT Auth in Redux and Rails](https://github.com/learn-co-curriculum/jwt-auth-rails)
